@@ -7,8 +7,8 @@ function Contacts() {
         <div className="container mt-5">
             <h4><FontAwesomeIcon className="ml-2 mr-2" icon={faInfoCircle}/>Contacts</h4>
             <br/>
-            <p><b>Mobile:</b> (066) 696-66-23<br/>
-                <b>E-mail:</b> merikbest2015@gmail.com</p>
+            <p><b>Mobile:</b> 0339 250 091<br/>
+                <b>E-mail:</b> hqhuy.12c3kx2004@gmail.com</p>
             <br/>
             <h6>Working time</h6>
             <p>The online store is open from 08:00 to 20:00 without breaks and weekends. <br/>
